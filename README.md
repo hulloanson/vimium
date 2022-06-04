@@ -1,3 +1,5 @@
+_A quick hack to use vimium's master branch in Firefox ESR (version 91). it added an `id` in `browser_specific_settings` in `make.js` so I could sideload the built xpi without firefox saying it's corrupted_
+
 Vimium - The Hacker's Browser
 =============================
 
